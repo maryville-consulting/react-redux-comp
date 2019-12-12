@@ -1,3 +1,7 @@
+## React + Redux Tutorial
+
+Use this for much learning.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
